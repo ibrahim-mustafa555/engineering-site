@@ -1,0 +1,225 @@
+@media (max-width: 1200px) {
+    .navbar li .nav-link,
+    .meun-list li a {
+        margin-right: .45rem;
+        margin-left: .45rem;
+    }
+}
+
+@media (max-width: 992px) {
+    .navbar li .nav-link {
+        margin-right: .35rem;
+        margin-left: .35rem;
+    }
+    h5 {
+        font-size: 1rem;
+    }
+    .slider .owl-carousel .owl-nav button.owl-prev,
+    .slider .owl-carousel .owl-nav button.owl-next {
+        padding: 0px 10px !important;
+        top: 45%;
+    }
+    .head-fonts,
+    .statistics .counter-box .number {
+        font-size: 1.75rem
+    }
+    .services .owl-carousel .owl-nav button.owl-prev {
+        left: 10%;
+    }
+    .services .owl-carousel .owl-nav button.owl-next {
+        left: 4%;
+    }
+    .card {
+        flex-direction: column !important;
+    }
+    .owl-thumbs button {
+        width: 108px;
+        border: none;
+    }
+}
+
+@media(max-width:768px) {
+    body {
+        font-size: 14px;
+    }
+    .outer-border2 {
+        width: 54px !important;
+    }
+    .fiexed_menue {
+        width: 65px !important;
+        top: 30% !important;
+    }
+    .dept-photo2 {
+        width: 26px !important;
+    }
+    .navbar {
+        padding: .5rem 0rem;
+    }
+    .navbar-toggler {
+        position: absolute;
+        top: 13px;
+        border: 1px solid #f40000;
+        /* border-radius: 0; */
+        color: #f40000;
+        line-height: 1.2;
+        padding: .1rem .35rem;
+    }
+    .top-menu {
+        margin-right: 0rem;
+    }
+    .navbar a span {
+        right: 0;
+    }
+    .slider .info {
+        top: 20%;
+    }
+    .slider .info h1 {
+        font-size: 2rem;
+    }
+    .slider .info p {
+        font-size: 16px;
+    }
+    .slider .info .btn {
+        font-size: 14px;
+    }
+    .order_number {
+        background: #faf0c9;
+        padding: 2px 5px;
+        color: #000;
+        margin-bottom: 5px;
+    }
+    .order_date,
+    .order_items {
+        margin-bottom: 5px;
+    }
+    .services .owl-carousel .owl-nav button.owl-prev,
+    .services .owl-carousel .owl-nav button.owl-next {
+        padding: 0 10px !important;
+    }
+    .services .owl-carousel .owl-nav button.owl-prev {
+        left: 14%;
+    }
+    .services .owl-carousel .owl-nav button.owl-next {
+        left: 6%;
+    }
+    .head-fonts,
+    .statistics .counter-box .number {
+        font-size: 1.5rem
+    }
+    .about-us .breadcrumb li,
+    .about-us .breadcrumb li a {
+        font-size: 14px;
+    }
+    .about-us {
+        min-height: 150px;
+    }
+    .about-us h3 {
+        font-size: 1.3rem;
+    }
+    .about-us .info {
+        padding: 65px 0 0 0;
+    }
+}
+
+@media (max-width: 576px) {
+    .top-menu img {
+        width: 30px;
+    }
+    .user-imgg {
+        padding: 8px;
+    }
+    .user-img {
+        padding: 8px 5px 5px;
+        margin-left: 8px;
+        margin-top: 1rem;
+    }
+    .outline-link {
+        padding: .5rem .8rem;
+    }
+    .slider .info {
+        top: 10%;
+    }
+    .slider .info h1 {
+        font-size: 1.5rem;
+    }
+    .slider .info p {
+        font-size: 14px;
+    }
+    .services .owl-carousel .owl-nav button.owl-prev {
+        left: 16%;
+    }
+    .services .owl-carousel .owl-nav button.owl-next {
+        left: 7%;
+    }
+    .about .media .icon {
+        width: 45px;
+        height: 45px;
+    }
+    .about .media .icon i {
+        font-size: 15px;
+        padding-top: 13px;
+    }
+    .mail-icon {
+        display: none;
+    }
+    .mail-input {
+        width: 100%;
+        margin-top: 30px;
+    }
+    .contact-div .order-title h5 {
+        display: none;
+    }
+    .padd-r-50 {
+        padding-right: 15px;
+    }
+    .footer-line {
+        margin-bottom: 20px;
+    }
+    .social-icons {
+        margin-bottom: 20px;
+    }
+    .owl-thumbs button {
+        width: 90px;
+        border: none;
+    }
+}
+
+@media (max-width: 400px) {
+    .user-imgg {
+        padding: 5px;
+    }
+    .user-img {
+        margin-left: 4px;
+    }
+    .ml-2,
+    .mx-2 {
+        margin-left: .2rem!important;
+    }
+    .slider .info {
+        top: 8%;
+    }
+    .slider .info h1 {
+        font-size: 1.2rem;
+    }
+    .slider .info p {
+        font-size: 12px;
+        margin-bottom: 0;
+    }
+    .slider .info .form-group {
+        margin-bottom: 0;
+    }
+    .slider .info .form-control {
+        padding: .35rem .65rem;
+        font-size: .8rem;
+    }
+    .slider .owl-carousel .owl-nav button.owl-next {
+        right: 0%;
+    }
+    .slider .owl-carousel .owl-nav button.owl-prev {
+        left: 0%;
+    }
+    .owl-thumbs button {
+        width: 70px;
+        border: none;
+    }
+}
